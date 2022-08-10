@@ -7,7 +7,7 @@
 
 💡 &nbsp;I am a very cheerful person. I love TeamWork and learning about new technologies.\
 🎓 &nbsp;I'm currently learning React.\
-✍️ &nbsp;In my free time, i just love reading dantasy books and play videogames.\
+✍️ &nbsp;In my free time i just love reading fantasy books and play videogames.\
 ✉️ &nbsp;You can shoot me an email at alejandrame1505@gmail.com.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/s/xvjoltxjpd0jl73/CV%20Alejandra%20Mogollon%20Escuela.pdf?dl=0) for more details about me. I'm open to feedback and suggestions!
 
@@ -34,5 +34,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-
+<a href="www.linkedin.com/in/alejandrame"><img src="https://img.shields.io/badge/-Alejandra%20Mogollon%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
