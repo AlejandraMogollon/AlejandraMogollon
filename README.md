@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies.\
-🎓 &nbsp;I'm currently studying React.\
+🎓 &nbsp;I'm currently learning React.\
 🌱 &nbsp; .\
 ✍️ &nbsp;In my free time, i just love reading dantasy books and play videogames.\
 ✉️ &nbsp;You can shoot me an email at alejandrame1505@gmail.com!.\
@@ -29,7 +29,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlejandraMogollon&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandraMogollon)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandraMogollon&theme=highcontrast&show)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
