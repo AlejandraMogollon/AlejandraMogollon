@@ -28,6 +28,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlejandraMogollon&theme=highcontrast&show_icons=true&count_private=true)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
