@@ -1,7 +1,7 @@
 
 <!--
 
-<!-- ## 👋 &nbsp;Hey there! I'm Alejandra Mogollon -->
+## 👋 &nbsp;Hey there! I'm Alejandra Mogollon 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
