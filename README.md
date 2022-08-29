@@ -9,7 +9,7 @@
 🎓 &nbsp;I'm currently learning React.\
 ✍️ &nbsp;In my free time i just love reading fantasy books and play videogames.\
 ✉️ &nbsp;You can shoot me an email at alejandrame1505@gmail.com.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/s/xvjoltxjpd0jl73/CV%20Alejandra%20Mogollon%20Escuela.pdf?dl=0) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://ibb.co/hHCd72g) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
